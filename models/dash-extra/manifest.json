@@ -1,0 +1,71 @@
+[
+  {
+    "file": "part-1-of-3.npz",
+    "bytes": 33968492,
+    "shards": [
+      "fit-sieve-element-eb-w5-s00__sieve-dash-extra-s0__20261030T133904Z__25ad8f41",
+      "fit-sieve-element-eb-w5-s01__sieve-dash-extra-s0__20261030T134031Z__0917ec1c",
+      "fit-sieve-element-eb-w5-s02__sieve-dash-extra-s0__20261030T134031Z__84994af0",
+      "fit-sieve-element-eb-w5-s03__sieve-dash-extra-s0__20261030T134031Z__6491acf4",
+      "fit-sieve-element-eb-w5-s04__sieve-dash-extra-s0__20261030T134031Z__cfe66b60",
+      "fit-sieve-element-eb-w5-s05__sieve-dash-extra-s0__20261030T134032Z__7a6c811e",
+      "fit-sieve-element-eb-w5-s06__sieve-dash-extra-s0__20261030T134031Z__b22aa392",
+      "fit-sieve-element-eb-w5-s07__sieve-dash-extra-s0__20261030T134031Z__26bd0bfe",
+      "fit-sieve-element-eb-w5-s08__sieve-dash-extra-s0__20261030T134031Z__e3382495",
+      "fit-sieve-element-eb-w5-s09__sieve-dash-extra-s0__20261030T134032Z__0fde80ab",
+      "fit-sieve-element-eb-w5-s10__sieve-dash-extra-s0__20261030T134033Z__fcdfa3ce",
+      "fit-sieve-element-eb-w5-s11__sieve-dash-extra-s0__20261030T134033Z__9a5f9c5d",
+      "fit-sieve-element-eb-w5-s12__sieve-dash-extra-s0__20261030T134033Z__91007dcd",
+      "fit-sieve-element-eb-w5-s13__sieve-dash-extra-s0__20261030T134033Z__6528cded",
+      "fit-sieve-element-eb-w5-s14__sieve-dash-extra-s0__20261030T134036Z__67f13fba",
+      "fit-sieve-element-eb-w5-s15__sieve-dash-extra-s0__20261030T134038Z__fce07662",
+      "fit-sieve-element-eb-w5-s16__sieve-dash-extra-s0__20261030T134039Z__a8e526c4"
+    ]
+  },
+  {
+    "file": "part-2-of-3.npz",
+    "bytes": 34211129,
+    "shards": [
+      "fit-sieve-element-eb-w5-s17__sieve-dash-extra-s0__20261030T134039Z__6065f5ab",
+      "fit-sieve-element-eb-w5-s18__sieve-dash-extra-s0__20261030T134039Z__175380d2",
+      "fit-sieve-element-eb-w5-s19__sieve-dash-extra-s0__20261030T134039Z__ac4d466b",
+      "fit-sieve-element-eb-w5-s20__sieve-dash-extra-s0__20261030T134039Z__7dc452af",
+      "fit-sieve-element-eb-w5-s21__sieve-dash-extra-s0__20261030T134040Z__cc6a3a57",
+      "fit-sieve-element-eb-w5-s22__sieve-dash-extra-s0__20261030T134040Z__329829c2",
+      "fit-sieve-element-eb-w5-s23__sieve-dash-extra-s0__20261030T134040Z__9e0e3152",
+      "fit-sieve-element-eb-w5-s24__sieve-dash-extra-s0__20261030T134041Z__88ac5169",
+      "fit-sieve-element-eb-w5-s25__sieve-dash-extra-s0__20261030T134040Z__b3aba92b",
+      "fit-sieve-element-eb-w5-s26__sieve-dash-extra-s0__20261030T134041Z__4defb9a6",
+      "fit-sieve-element-eb-w5-s27__sieve-dash-extra-s0__20261030T134041Z__4e9926a2",
+      "fit-sieve-element-eb-w5-s28__sieve-dash-extra-s0__20261030T134043Z__d8724fb2",
+      "fit-sieve-element-eb-w5-s29__sieve-dash-extra-s0__20261030T134043Z__296983a1",
+      "fit-sieve-element-eb-w5-s30__sieve-dash-extra-s0__20261030T134043Z__a0d23ac8",
+      "fit-sieve-element-eb-w5-s31__sieve-dash-extra-s0__20261030T134046Z__65a60816",
+      "fit-sieve-element-eb-w5-s32__sieve-dash-extra-s0__20261030T134047Z__748e2d07",
+      "fit-sieve-element-eb-w5-s33__sieve-dash-extra-s0__20261030T134047Z__bb5aff2c"
+    ]
+  },
+  {
+    "file": "part-3-of-3.npz",
+    "bytes": 44728049,
+    "shards": [
+      "fit-sieve-element-eb-w5-s34__sieve-dash-extra-s0__20261030T134047Z__f81168e8",
+      "fit-sieve-element-eb-w5-s35__sieve-dash-extra-s0__20261030T134047Z__1db3961c",
+      "fit-sieve-element-eb-w5-s36__sieve-dash-extra-s0__20261030T134047Z__cdbc1187",
+      "fit-sieve-element-eb-w5-s37__sieve-dash-extra-s0__20261030T134047Z__52bafc66",
+      "fit-sieve-element-eb-w5-s38__sieve-dash-extra-s0__20261030T134047Z__2dba8f9e",
+      "fit-sieve-element-eb-w5-s39__sieve-dash-extra-s0__20261030T134047Z__3d7c174d",
+      "fit-sieve-element-eb-w5-s40__sieve-dash-extra-s0__20261030T134048Z__9198e677",
+      "fit-sieve-element-eb-w5-s41__sieve-dash-extra-s0__20261030T134048Z__366012b5",
+      "fit-sieve-element-eb-w5-s42__sieve-dash-extra-s0__20261030T134048Z__4921f01f",
+      "fit-sieve-element-eb-w5-s43__sieve-dash-extra-s0__20261030T134049Z__d35dd96b",
+      "fit-sieve-element-eb-w5-s44__sieve-dash-extra-s0__20261030T134050Z__dcd77297",
+      "fit-sieve-element-eb-w5-s45__sieve-dash-extra-s0__20261030T134050Z__986bf798",
+      "fit-sieve-element-eb-w5-s46__sieve-dash-extra-s0__20261030T134050Z__55d9ee4a",
+      "fit-sieve-element-eb-w5-s47__sieve-dash-extra-s0__20261030T134053Z__00107365",
+      "fit-sieve-element-eb-w5-s48__sieve-dash-extra-s0__20261030T134054Z__71567eb6",
+      "fit-sieve-element-eb-w5-s49__sieve-dash-extra-s0__20261030T134054Z__c68c5055",
+      "fit-sieve-element-eb-w5-test__sieve-dash-extra-s0__20261030T134112Z__c0d8f423"
+    ]
+  }
+]

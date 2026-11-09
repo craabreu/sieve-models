@@ -1,0 +1,71 @@
+[
+  {
+    "file": "part-1-of-3.npz",
+    "bytes": 33228440,
+    "shards": [
+      "fit-sieve-element-eb-w10-s00__sieve-dash-qmugs-s0__20261002T034230Z__0948b07d",
+      "fit-sieve-element-eb-w10-s01__sieve-dash-qmugs-s0__20261002T034230Z__434be1ee",
+      "fit-sieve-element-eb-w10-s02__sieve-dash-qmugs-s0__20261002T034229Z__81a7a2ea",
+      "fit-sieve-element-eb-w10-s03__sieve-dash-qmugs-s0__20261002T034230Z__7a298819",
+      "fit-sieve-element-eb-w10-s04__sieve-dash-qmugs-s0__20261002T034230Z__4ebc39f9",
+      "fit-sieve-element-eb-w10-s05__sieve-dash-qmugs-s0__20261002T034230Z__de2824c2",
+      "fit-sieve-element-eb-w10-s06__sieve-dash-qmugs-s0__20261002T034230Z__e056f24b",
+      "fit-sieve-element-eb-w10-s07__sieve-dash-qmugs-s0__20261002T034230Z__30f7eb8c",
+      "fit-sieve-element-eb-w10-s08__sieve-dash-qmugs-s0__20261002T034238Z__f06d587c",
+      "fit-sieve-element-eb-w10-s09__sieve-dash-qmugs-s0__20261002T034238Z__267d18b1",
+      "fit-sieve-element-eb-w10-s10__sieve-dash-qmugs-s0__20261002T034238Z__114adfa6",
+      "fit-sieve-element-eb-w10-s11__sieve-dash-qmugs-s0__20261002T034238Z__ad7bbf29",
+      "fit-sieve-element-eb-w10-s12__sieve-dash-qmugs-s0__20261002T034238Z__5619b325",
+      "fit-sieve-element-eb-w10-s13__sieve-dash-qmugs-s0__20261002T034238Z__c1490559",
+      "fit-sieve-element-eb-w10-s14__sieve-dash-qmugs-s0__20261002T034238Z__651d523d",
+      "fit-sieve-element-eb-w10-s15__sieve-dash-qmugs-s0__20261002T034238Z__80e2629c",
+      "fit-sieve-element-eb-w10-s16__sieve-dash-qmugs-s0__20261002T034246Z__59a0fcad"
+    ]
+  },
+  {
+    "file": "part-2-of-3.npz",
+    "bytes": 33257679,
+    "shards": [
+      "fit-sieve-element-eb-w10-s17__sieve-dash-qmugs-s0__20261002T034246Z__fdf4ca7c",
+      "fit-sieve-element-eb-w10-s18__sieve-dash-qmugs-s0__20261002T034247Z__613a9acb",
+      "fit-sieve-element-eb-w10-s19__sieve-dash-qmugs-s0__20261002T034247Z__ef27e249",
+      "fit-sieve-element-eb-w10-s20__sieve-dash-qmugs-s0__20261002T034247Z__2fbb7197",
+      "fit-sieve-element-eb-w10-s21__sieve-dash-qmugs-s0__20261002T034246Z__8b774556",
+      "fit-sieve-element-eb-w10-s22__sieve-dash-qmugs-s0__20261002T034247Z__7761f826",
+      "fit-sieve-element-eb-w10-s23__sieve-dash-qmugs-s0__20261002T034246Z__23eab248",
+      "fit-sieve-element-eb-w10-s24__sieve-dash-qmugs-s0__20261002T034254Z__394104f4",
+      "fit-sieve-element-eb-w10-s25__sieve-dash-qmugs-s0__20261002T034255Z__6cc77234",
+      "fit-sieve-element-eb-w10-s26__sieve-dash-qmugs-s0__20261002T034254Z__be4fda47",
+      "fit-sieve-element-eb-w10-s27__sieve-dash-qmugs-s0__20261002T034255Z__5d29c1d6",
+      "fit-sieve-element-eb-w10-s28__sieve-dash-qmugs-s0__20261002T034255Z__0679856d",
+      "fit-sieve-element-eb-w10-s29__sieve-dash-qmugs-s0__20261002T034256Z__8d7fa619",
+      "fit-sieve-element-eb-w10-s30__sieve-dash-qmugs-s0__20261002T034255Z__54247267",
+      "fit-sieve-element-eb-w10-s31__sieve-dash-qmugs-s0__20261002T034255Z__c16c3937",
+      "fit-sieve-element-eb-w10-s32__sieve-dash-qmugs-s0__20261002T034302Z__aa9e896a",
+      "fit-sieve-element-eb-w10-s33__sieve-dash-qmugs-s0__20261002T034303Z__f4001a59"
+    ]
+  },
+  {
+    "file": "part-3-of-3.npz",
+    "bytes": 42474970,
+    "shards": [
+      "fit-sieve-element-eb-w10-s34__sieve-dash-qmugs-s0__20261002T034303Z__3442c664",
+      "fit-sieve-element-eb-w10-s35__sieve-dash-qmugs-s0__20261002T034303Z__dd5881cd",
+      "fit-sieve-element-eb-w10-s36__sieve-dash-qmugs-s0__20261002T034303Z__4b88f230",
+      "fit-sieve-element-eb-w10-s37__sieve-dash-qmugs-s0__20261002T034303Z__5cf43c9b",
+      "fit-sieve-element-eb-w10-s38__sieve-dash-qmugs-s0__20261002T034303Z__a07c8866",
+      "fit-sieve-element-eb-w10-s39__sieve-dash-qmugs-s0__20261002T034303Z__11ddbbb7",
+      "fit-sieve-element-eb-w10-s40__sieve-dash-qmugs-s0__20261002T034311Z__e50a1161",
+      "fit-sieve-element-eb-w10-s41__sieve-dash-qmugs-s0__20261002T034311Z__339142be",
+      "fit-sieve-element-eb-w10-s42__sieve-dash-qmugs-s0__20261002T034311Z__2d3c088e",
+      "fit-sieve-element-eb-w10-s43__sieve-dash-qmugs-s0__20261002T034311Z__9e62e578",
+      "fit-sieve-element-eb-w10-s44__sieve-dash-qmugs-s0__20261002T034311Z__7e5c716e",
+      "fit-sieve-element-eb-w10-s45__sieve-dash-qmugs-s0__20261002T034311Z__0943d0c2",
+      "fit-sieve-element-eb-w10-s46__sieve-dash-qmugs-s0__20261002T034311Z__9a6b6d71",
+      "fit-sieve-element-eb-w10-s47__sieve-dash-qmugs-s0__20261002T034312Z__b8d09e74",
+      "fit-sieve-element-eb-w10-s48__sieve-dash-qmugs-s0__20261002T034319Z__070588a8",
+      "fit-sieve-element-eb-w10-s49__sieve-dash-qmugs-s0__20261002T034319Z__ce479b54",
+      "fit-sieve-element-eb-w10-test__sieve-dash-qmugs-s0__20261030T114511Z__4005ac40"
+    ]
+  }
+]
